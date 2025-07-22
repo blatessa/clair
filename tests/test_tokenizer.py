@@ -1,4 +1,4 @@
-from tokenizer import Token, TokenType, Tokenizer
+from src.tokenizer import Token, TokenType, Tokenizer
 
 import pytest
 
